@@ -1,6 +1,5 @@
 package TesteDeThreads;
 
-import java.util.TreeMap;
 
 public class Principal {
     public static void main(String[] args) {
